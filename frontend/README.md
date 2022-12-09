@@ -31,7 +31,7 @@ The tracker should be a web form where the user can add multiple rows of records
 
 The user should be allowed to add multiple records for each day using the same or different mode of transportation and the distance used for each mode.
 
-You will be given a JSON file containing a list of transportations and their corresponding emissions, as demonstrated in the end of this document. Emissions for each most of transportation are expressed in **grams of carbon dioxide per kilometre (gCO2e/km)**.
+You will be given a [JSON file](transportation-emissions.json) containing a list of transportations and their corresponding emissions, as demonstrated in the end of this document. Emissions for each most of transportation are expressed in **grams of carbon dioxide per kilometre (gCO2e/km)**.
 
 The Tracker should also have the following features:
 
